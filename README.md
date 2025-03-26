@@ -1,5 +1,6 @@
 # enterprise-starter-aws-infrastructure
 step by step infra setup guide for enterprise, using terraform
+* to save time and avoid doing the same thing twice
 
 #### storing all infrastructure state in Terraform Cloud as the source of truth, managed using terraform
 
