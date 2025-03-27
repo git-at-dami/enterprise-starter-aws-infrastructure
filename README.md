@@ -14,5 +14,11 @@ step by step infra setup guide for enterprise, using terraform
 * Terraform Provider Block
 * Terraform Resource Block
 
+### provider
+* terraform relies on providers to interact with remote sytems
 * provider configurations belong to **root module**, not **child module**
+
+### resource
 * each **resource block** describes one or more infrastructure objects
+* **provisioners** are used to configure resource post creation actions
+
