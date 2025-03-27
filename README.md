@@ -6,3 +6,4 @@ step by step infra setup guide for enterprise, using terraform
 
 * terraform workspaces are infrastructure automation pipelines responsible for automating certain aspects of infra, examples: github repositories, governance(teams and workspaces), networks, machine clusters
 * terraform cloud is used for governance via RBAC for Team scoped resources and workspace management
+* terraform cloud provides a consistent execution environment for terraform code
