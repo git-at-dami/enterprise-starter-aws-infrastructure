@@ -8,3 +8,8 @@ step by step infra setup guide for enterprise, using terraform
 * terraform cloud is used for governance via RBAC for Team scoped resources and workspace management
 * terraform cloud provides a consistent execution environment for terraform code
 * use terraform cloud to scale terraform practice within organization
+
+## Terraform Basic/Fundamental Blocks
+* Terraform Settings Block
+* Terraform Provider Block
+* Terraform Resource Block
