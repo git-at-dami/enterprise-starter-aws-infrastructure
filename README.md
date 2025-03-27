@@ -13,3 +13,5 @@ step by step infra setup guide for enterprise, using terraform
 * Terraform Settings Block
 * Terraform Provider Block
 * Terraform Resource Block
+
+provider configurations belong to root module, not child module
