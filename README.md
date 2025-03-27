@@ -21,4 +21,5 @@ step by step infra setup guide for enterprise, using terraform
 ### resource
 * each **resource block** describes one or more infrastructure objects
 * **provisioners** are used to configure resource post creation actions
-
+* every **resource type** is implemented by a provider which calls the **provider (e.g aws) api ** during ** terraform apply **
+ 
