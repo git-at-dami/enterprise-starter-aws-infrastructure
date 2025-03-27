@@ -17,6 +17,7 @@ step by step infra setup guide for enterprise, using terraform
 ### provider
 * terraform relies on providers to interact with remote sytems
 * provider configurations belong to **root module**, not **child module**
+* providers are publicly available in the  **Terraform Registry**
 
 ### resource
 * each **resource block** describes one or more infrastructure objects
